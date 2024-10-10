@@ -9,4 +9,4 @@
 
 You are all set! Download the file inside the micro:bit. 
 
-Next step is wiring the battery to the microbit and you can show display your name with a bit of a melody!
+Next step is wiring the battery to the microbit and you can display your name with a bit of a melody!
