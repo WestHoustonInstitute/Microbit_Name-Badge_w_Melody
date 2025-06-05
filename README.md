@@ -20,7 +20,7 @@ This repository will:
 
 # Step 1 – Flash the Name‑Badge code
 
-1. Download the compiled hex file for the project → **[name‑badge‑with‑melody.hex](Microbit_Setup/name-badge-with-melody.hex)**.
+1. Download the compiled hex file for the project → **[name‑badge‑with‑melody.hex](Software_Setup/microbit-Name-badge.hex)**.
 2. Open the file at <https://makecode.microbit.org/#> (drag‑and‑drop or use *Import → Import File*).
 3. Personalise the **`show string`** block with your name.
 4. Connect the micro:bit via USB and click **Download** to flash the code.
